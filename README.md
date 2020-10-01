@@ -22,7 +22,7 @@
 <channel>
 <name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white] SERIES ATUAIS GEDRAYV[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
 <thumbnail>https://www.adirferreira.com.br/wp-content/uploads/2015/09/TV-Series.png</thumbnail>
-<externallink>https://pastebin.com/raw/5w14BR2X</externallink>
+<externallink>https://pastebin.com/raw/G0jykGrZ</externallink>
 <fanart>https://www.dayanalangaro.com.br/wp-content/uploads/2017/01/series.jpg</fanart>
 <info>Series que fazem sucesso ou que estao em destaque nos meios de comunicação</info>
 </channel>
